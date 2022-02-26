@@ -1,4 +1,4 @@
-# TTPS-Extractor
+# TTP-Extractor
 A tool that automates the process of extracting TTPs from Threat Intel Reports released by different vendors. These extracted TTPs will be useful for threat hunting, implementing automated blocks at SIEM and many more. Automating the process of extracting TTPs achieves vertical extraction scalability of TTPs and its implementations.
 
 
